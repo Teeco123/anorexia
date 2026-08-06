@@ -1,0 +1,29 @@
+{
+  "name": "Anorexia",
+  "identifier": "teeco.anorexia",
+  "sourceURL": "https://raw.githubusercontent.com/Teeco123/anorexia/main/source.json",
+  "apps": [
+    {
+      "name": "Anorexia",
+      "bundleIdentifier": "teeco.anorexia",
+      "developerName": "Teeco",
+      "localizedDescription": "Simple app for tracking calories.",
+      "iconURL": "https://raw.githubusercontent.com/Teeco123/anorexia/main/icon.png",
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "1",
+          "date": "2026-08-06"
+          "downloadURL": "TODO",
+          "size": 79821,
+          "minOSVersion": "27.0",
+          "appPermissions": {
+            "privacy": {
+              "NSCameraUsageDescription": "To scan barcodes"
+            }
+          },
+        }
+      ]
+    }
+  ]
+}

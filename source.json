@@ -11,11 +11,11 @@
       "iconURL": "https://raw.githubusercontent.com/Teeco123/anorexia/main/icon.png",
       "versions": [
         {
-          "version": "0.1.0",
+          "version": "0.2.0",
           "buildVersion": "1",
-          "date": "2026-08-06",
-          "downloadURL": "https://github.com/Teeco123/anorexia/releases/download/v0.1.0/anorexia.ipa",
-          "size": 2200000,
+          "date": "2026-08-07",
+          "downloadURL": "https://github.com/Teeco123/anorexia/releases/download/v0.2.0/anorexia.ipa",
+          "size": 4025199,
           "minOSVersion": "26.0",
           "appPermissions": {
             "privacy": {
@@ -24,11 +24,11 @@
           }
         },
         {
-          "version": "0.2.0",
+          "version": "0.1.0",
           "buildVersion": "1",
-          "date": "2026-08-07",
-          "downloadURL": "https://github.com/Teeco123/anorexia/releases/download/v0.2.0/anorexia.ipa",
-          "size": 4025199,
+          "date": "2026-08-06",
+          "downloadURL": "https://github.com/Teeco123/anorexia/releases/download/v0.1.0/anorexia.ipa",
+          "size": 2200000,
           "minOSVersion": "26.0",
           "appPermissions": {
             "privacy": {

@@ -11,6 +11,19 @@
       "iconURL": "https://raw.githubusercontent.com/Teeco123/anorexia/main/icon.png",
       "versions": [
         {
+          "version": "0.3.0",
+          "buildVersion": "1",
+          "date": "2026-08-08",
+          "downloadURL": "https://github.com/Teeco123/anorexia/releases/download/v0.3.0/anorexia.ipa",
+          "size": 4061361,
+          "minOSVersion": "26.0",
+          "appPermissions": {
+            "privacy": {
+              "NSCameraUsageDescription": "To scan barcodes"
+            }
+          }
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "1",
           "date": "2026-08-07",
